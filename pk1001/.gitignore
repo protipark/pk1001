@@ -1,0 +1,16 @@
+# ignore a single file
+
+mycode.class
+
+
+# ignore an entire directory
+
+/History/
+
+/__Previews/
+
+/Project Logs for ACS70331/
+
+# ignore a file type
+
+*.ini
