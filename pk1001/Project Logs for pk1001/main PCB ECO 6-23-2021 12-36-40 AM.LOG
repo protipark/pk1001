@@ -1,0 +1,52 @@
+Added Component: Designator=F1(R1206_L)
+Add component (AddParameter): Name = "Category"; Value = "Circuit Protection"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.littelfuse.com/~/media/electronics/datasheets/resettable_ptcs/littelfuse_ptc_1206l_datasheet.pdf.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.littelfuse.com/~/media/electronics/datasheets/resettable_ptcs/littelfuse_ptc_1206l_datasheet.pdf.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Hold (Ih) (Max)"; Value = "1.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Max"; Value = "100A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Trip (It)"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Littelfuse Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1206L150THWR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "1206 (3216 Metric), Concave, Long Side Terminals"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.49, 10=0.462, 25=0.4256, 50=0.3892, 100=0.3234, 250=0.294, 500=0.2492, 1000=0.2198 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "R Min/Max"; Value = "0.040 ~ 0.120 Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "8140"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "F3372CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Time to Trip"; Value = "0.3s"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Max"; Value = "8V"; VariantName = "[No Variations]"
+Added Component: Designator=J1(USB MICRO)
+Add component (AddParameter): Name = "Category"; Value = "Connectors, Interconnects"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://portal.fciconnect.com/Comergent//fci/drawing/10118194.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://portal.fciconnect.com/Comergent//fci/drawing/10118194.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "USB - micro B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Shielded, Solder Retention"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Receptacle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ingress Protection"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FCI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "10118194-0001LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount, Right Angle, Horizontal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.46, 10=0.433, 25=0.3712, 50=0.3156, 100=0.3032, 250=0.27224, 500=0.25988 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specifications"; Value = "USB 2.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "9139"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "609-4618-1-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetF1_1 Pin=F1-1
+Added Pin To Net: NetName=VUSB Pin=F1-2
+Added Pin To Net: NetName=NetF1_1 Pin=J1-1
+Added Pin To Net: NetName=DM Pin=J1-2
+Added Pin To Net: NetName=DP Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Pin To Net: NetName=GND Pin=J1-shd
+Added Pin To Net: NetName=GND Pin=J1-shd
+Added Pin To Net: NetName=GND Pin=J1-shd
+Added Pin To Net: NetName=GND Pin=J1-shd
+Added Pin To Net: NetName=GND Pin=J1-shd
+Added Pin To Net: NetName=GND Pin=J1-shd
+Added Member To Class: ClassName=main Member=Component F1 1206L150THWR
+Added Member To Class: ClassName=main Member=Component J1 MICRO_USB

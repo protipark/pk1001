@@ -1,0 +1,18 @@
+Added Component: Designator=TP1(TESTPOINT_PROG)
+Added Component: Designator=TP2(TESTPOINT_PROG)
+Added Component: Designator=TP3(TESTPOINT_PROG)
+Added Component: Designator=TP4(TESTPOINT_PROG)
+Added Component: Designator=TP5(TESTPOINT_PROG)
+Added Component: Designator=TP6(TESTPOINT_PROG)
+Added Pin To Net: NetName=D12/MISO Pin=TP1-0
+Added Pin To Net: NetName=D11/MOSI Pin=TP2-0
+Added Pin To Net: NetName=D13/SCK Pin=TP3-0
+Added Pin To Net: NetName=NANO_RST Pin=TP4-0
+Added Pin To Net: NetName=5V Pin=TP5-0
+Added Pin To Net: NetName=GND Pin=TP6-0
+Added Member To Class: ClassName=main Member=Component TP1 Test_Point
+Added Member To Class: ClassName=main Member=Component TP2 Test_Point
+Added Member To Class: ClassName=main Member=Component TP3 Test_Point
+Added Member To Class: ClassName=main Member=Component TP4 Test_Point
+Added Member To Class: ClassName=main Member=Component TP5 Test_Point
+Added Member To Class: ClassName=main Member=Component TP6 Test_Point
