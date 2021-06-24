@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=GND Pin=SW1-2
+Removed Pin From Net: NetName=NANO_RST Pin=SW1-3
+Change Component Footprint: Designator=SW1 Old Footprint=FP-B3S-1000P-MFG New Footprint=SW-SMD_4P-L3.2-W2.9-P2.20-LS3.4
+Change Component Comment : Designator=SW1 Old Comment=B3S-1000P New Comment=SKSHAAE010
+Change Managed Component Library Link : Designator=SW1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=89B8D639-0ED9-44E3-B73A-715F49961724 New ItemGUID= Old RevisionGUID=30D1CD2C-04BA-47E0-B09A-E3A3D5CFA91A New RevisionGUID=
+Change component parameters: Designator = "SW1" ("SW1"); Footprint = "FP-B3S-1000P-MFG"; UniqueID = "\WTMBYXHT" ("\WTMBYXHT")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer"; Value = "ALPS Electric"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "SKSHAAE010"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "C262415"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "S"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "SKSHAAE010"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NANO_RST Pin=SW1-2
+Added Pin To Net: NetName=GND Pin=SW1-3
